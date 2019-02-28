@@ -1,1 +1,5 @@
-# scientific_calculator_using_java_swing
+# Scientific Calculator using `Java` Swing
+
+<p align="center">
+  <img alt="screenshot"  src="Screenshot.jpg">
+</p>
